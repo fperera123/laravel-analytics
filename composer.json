@@ -24,7 +24,7 @@
         "google/analytics-data": "^0.9.4",
         "nesbot/carbon": "^2.66",
         "laravel/framework": "^8.0|^10.0",
-        "spatie/laravel-package-tools": "^1.13.0",
+        "spatie/laravel-package-tools": "^1.12.1",
         "symfony/cache": "^6.0"
     },
     "require-dev": {
